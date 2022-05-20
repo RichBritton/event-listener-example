@@ -1,0 +1,25 @@
+
+.container-flex {
+    display: flex;
+}
+
+.outer {
+    background-color: black;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
+
+.box-clicked {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
